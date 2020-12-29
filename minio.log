@@ -1,0 +1,2000 @@
+API: SYSTEM()
+Time: 18:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:30:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:30:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:30:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:30:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:30:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:35:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:35:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:35:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:35:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:35:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:40:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:40:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:40:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:40:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:40:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:45:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:45:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:45:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:45:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:45:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:50:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:50:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:50:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:50:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:50:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 18:55:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 18:55:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:55:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:55:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 18:55:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 19:00:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:00:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:00:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:00:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:00:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 19:05:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:05:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:05:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:05:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:05:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 19:10:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:10:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:10:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:10:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:10:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 19:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:15:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: PutObject(bucket=test, object=b3ca28c6-1936-42f6-a23e-7f76d6a6abfb/wagon-http-3.2.0-shaded.jar)
+Time: 19:16:54 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552BD026A68544
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /minio_data/.minio.sys/buckets/test/b3ca28c6-1936-42f6-a23e-7f76d6a6abfb: no space left on device (*os.PathError)
+       4: cmd/fs-v1.go:1178:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1120:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1559:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2042:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=b3ca28c6-1936-42f6-a23e-7f76d6a6abfb/wagon-http-3.2.0-shaded.jar)
+Time: 19:16:54 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552BD026A68544
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /minio_data/.minio.sys/buckets/test/b3ca28c6-1936-42f6-a23e-7f76d6a6abfb: no space left on device (*os.PathError)
+       4: cmd/api-errors.go:2015:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:2040:cmd.toAPIError()
+       2: cmd/object-handlers.go:1561:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2042:http.HandlerFunc.ServeHTTP()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:20:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 19:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: write /minio_data/.minio.sys/buckets/.tracker.bin: no space left on device (*os.PathError)
+       1: cmd/data-update-tracker.go:306:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 19:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:290:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       2: cmd/fs-v1.go:301:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:123:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-crawler.go:139:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:25:56 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: Storage reached its minimum free disk threshold. (cmd.StorageFull)
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: PutObject(bucket=test, object=edf93075-5fe3-43d4-b310-756b045ab75f/wagon-http-3.2.0-shaded.jar)
+Time: 19:30:09 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552C892D24DAC1
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full (cmd.StorageErr)
+       5: cmd/fs-v1-helpers.go:315:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1211:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1120:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1559:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2042:http.HandlerFunc.ServeHTTP()
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ You are running an older version of MinIO released 4 months ago ┃
+┃ Update: Run `mc admin update`                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+API: SYSTEM()
+Time: 19:34:49 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: dataUpdateTracker: Unknown data version
+       2: cmd/data-update-tracker.go:209:cmd.(*dataUpdateTracker).load()
+       1: cmd/data-update-tracker.go:179:cmd.(*dataUpdateTracker).start()
+Endpoint:  http://172.25.17.61:9010
+
+Browser Access:
+   http://172.25.17.61:9010
+
+Object API (Amazon S3 compatible):
+   Go:         https://docs.min.io/docs/golang-client-quickstart-guide
+   Java:       https://docs.min.io/docs/java-client-quickstart-guide
+   Python:     https://docs.min.io/docs/python-client-quickstart-guide
+   JavaScript: https://docs.min.io/docs/javascript-client-quickstart-guide
+   .NET:       https://docs.min.io/docs/dotnet-client-quickstart-guide
+
+API: PutObject(bucket=test, object=8d3b48ca-4c8a-4f9e-aeab-200eb03c32d7/wagon-http-3.2.0-shaded.jar)
+Time: 19:35:18 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552CD107D0E556
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=b25fd250-f2cd-4568-8beb-d06a99a83ecb/wagon-http-3.2.0-shaded.jar)
+Time: 19:35:26 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552CD31741BE96
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=69a9a9c9-6d44-47a4-a152-c0a411564621/wagon-http-3.2.0-shaded.jar)
+Time: 19:35:33 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552CD4892CEE3C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=0583f414-1558-44ee-9d23-2a6455018b94/wagon-http-3.2.0-shaded.jar)
+Time: 19:36:45 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552CE54CC62041
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=fab0f67c-d8e0-4bfa-b78f-a9924f2d2b9f/wagon-http-3.2.0-shaded.jar)
+Time: 19:36:51 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+RequestID: 16552CE6DC63C304
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: SYSTEM()
+Time: 19:39:49 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: dataUsageCache: unknown version: 3
+       3: cmd/data-usage-cache.go:447:cmd.(*dataUsageCache).load()
+       2: cmd/fs-v1.go:244:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 19:39:49 CST 12/29/2020
+DeploymentID: 90cce98d-51e3-471b-9c05-88b81c17c274
+Error: dataUsageCache: unknown version: 3
+       3: cmd/data-usage-cache.go:447:cmd.(*dataUsageCache).load()
+       2: cmd/fs-v1.go:268:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ You are running an older version of MinIO released 4 months ago ┃
+┃ Update: Run `mc admin update`                                   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+Attempting encryption of all config, IAM users and policies on MinIO backend
+Endpoint:  http://172.25.17.61:9010
+
+Browser Access:
+   http://172.25.17.61:9010
+
+Object API (Amazon S3 compatible):
+   Go:         https://docs.min.io/docs/golang-client-quickstart-guide
+   Java:       https://docs.min.io/docs/java-client-quickstart-guide
+   Python:     https://docs.min.io/docs/python-client-quickstart-guide
+   JavaScript: https://docs.min.io/docs/javascript-client-quickstart-guide
+   .NET:       https://docs.min.io/docs/dotnet-client-quickstart-guide
+
+API: PutObject(bucket=test, object=b2204eb1-8009-4413-8f07-ed3de3364852/wagon-http-3.2.0-shaded.jar)
+Time: 19:58:12 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E110441B885
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2f294e35-0737-4e41-af3d-f001bc13e3a8/wagon-http-3.2.0-shaded.jar)
+Time: 19:58:17 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E1232FCE076
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=33912dbf-8719-49b2-9246-b29074d2b75f/wagon-http-3.2.0-shaded.jar)
+Time: 19:58:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E13FF0F041B
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=9adef0fb-ef6f-4c7c-b354-1b3d86e4143d/wagon-http-3.2.0-shaded.jar)
+Time: 19:58:39 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E175B086737
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/09/10/21/28/FRADMIT.TTF)
+Time: 20:00:10 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E2C6FFF0FC9
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/04/12/22/51/LucidaBrightDemiItalic.ttf)
+Time: 20:00:17 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E2E355FDC49
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2017: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/04/12/22/51/LucidaBrightDemiItalic.ttf)
+Time: 20:00:17 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E2E355FDC49
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2017: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2020/09/02/15/21/arialbd.ttf)
+Time: 20:00:27 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3074899B74
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2020: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2020/09/02/15/21/arialbd.ttf)
+Time: 20:00:27 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3074899B74
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2020: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/08/07/21/19/sun-jcontrol.png)
+Time: 20:00:36 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E327F661234
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/08/07/21/19/sun-jcontrol.png)
+Time: 20:00:36 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E327F661234
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/10/11/24/18/dpl.yaml)
+Time: 20:00:49 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E359AE95248
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/10/11/24/18/dpl.yaml)
+Time: 20:00:49 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E359AE95248
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/09/03/05/47/TCM_____.TTF)
+Time: 20:00:58 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E37A5A575FB
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2019: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/09/03/05/47/TCM_____.TTF)
+Time: 20:00:58 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E37A5A575FB
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2019: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/06/30/23/53/sunw_java_plugin.mo)
+Time: 20:01:04 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E392B817058
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/06/30/23/53/sunw_java_plugin.mo)
+Time: 20:01:04 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E392B817058
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=881c59ca-861f-462d-9be3-17700a2a1459/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:21 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3D1C92185E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/881c59ca-861f-462d-9be3-17700a2a1459: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=881c59ca-861f-462d-9be3-17700a2a1459/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:21 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3D1C92185E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/881c59ca-861f-462d-9be3-17700a2a1459: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=a83fa3f0-20a7-4b04-8b26-c139f6354d5f/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3E0A3B0140
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/a83fa3f0-20a7-4b04-8b26-c139f6354d5f: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=a83fa3f0-20a7-4b04-8b26-c139f6354d5f/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3E0A3B0140
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/a83fa3f0-20a7-4b04-8b26-c139f6354d5f: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=5ca13f36-76d3-4245-8f8c-a4290bcf53d8/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:29 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3EFDEFC563
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/5ca13f36-76d3-4245-8f8c-a4290bcf53d8: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=5ca13f36-76d3-4245-8f8c-a4290bcf53d8/wagon-http-3.2.0-shaded.jar)
+Time: 20:01:29 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E3EFDEFC563
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/5ca13f36-76d3-4245-8f8c-a4290bcf53d8: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/12/25/06/06/ALGER.TTF)
+Time: 20:01:41 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E41BF7AB34A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/12/25/06/06/ALGER.TTF)
+Time: 20:01:41 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E41BF7AB34A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: open /home/minio_data_test/.minio.sys/buckets/.tracker.bin: no space left on device
+       1: cmd/data-update-tracker.go:266:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: open /home/minio_data_test/.minio.sys/buckets/.tracker.bin: no space left on device
+       1: cmd/data-update-tracker.go:266:cmd.(*dataUpdateTracker).startSaver()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       5: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       4: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       3: cmd/data-usage-cache.go:461:cmd.(*dataUsageCache).save()
+       2: cmd/fs-v1.go:296:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       2: cmd/fs-v1.go:296:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       5: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       4: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       3: cmd/data-usage-cache.go:461:cmd.(*dataUsageCache).save()
+       2: cmd/fs-v1.go:307:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       2: cmd/fs-v1.go:307:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       3: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       2: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       1: cmd/data-usage.go:57:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       1: cmd/data-usage.go:59:cmd.storeDataUsageInBackend()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       3: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       2: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       1: cmd/data-crawler.go:101:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:01:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/.minio.sys: no space left on device
+       1: cmd/data-crawler.go:103:cmd.runDataCrawler()
+
+API: PutObject(bucket=test, object=2017/05/19/17/36/README.md)
+Time: 20:01:55 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E44DB090021
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/05/19/17/36/README.md)
+Time: 20:01:55 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E44DB090021
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/06/15/17/20/sun-jcontrol.png)
+Time: 20:02:52 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E524AF20B10
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/06/15/17/20/sun-jcontrol.png)
+Time: 20:02:52 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E524AF20B10
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: SYSTEM()
+Time: 20:06:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: Storage reached its minimum free disk threshold.
+       1: cmd/data-crawler.go:103:cmd.runDataCrawler()
+
+API: PutObject(bucket=test, object=2018/05/05/20/30/localedata.jar)
+Time: 20:08:04 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E9AE61D9636
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/05/15/14/16/psfont.properties.ja)
+Time: 20:08:10 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E9C487D6FF8
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2019: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/05/15/14/16/psfont.properties.ja)
+Time: 20:08:10 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E9C487D6FF8
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2019: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/02/30/12/36/messages_zh_CN.properties)
+Time: 20:08:17 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E9DE0C54F9D
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2018: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/02/30/12/36/messages_zh_CN.properties)
+Time: 20:08:17 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552E9DE0C54F9D
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/2018: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2020/10/21/10/30/stop.sh)
+Time: 20:08:54 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EA680FC9AD9
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2020: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2020/10/21/10/30/stop.sh)
+Time: 20:08:54 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EA680FC9AD9
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2020: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/02/13/16/19/management-agent.jar)
+Time: 20:08:57 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EA71FC96EC6
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/02/13/16/19/management-agent.jar)
+Time: 20:08:57 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EA71FC96EC6
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObjectPart(bucket=test, object=2020/04/22/15/31/msgothic.ttc)
+Time: 20:10:46 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EC093051D74
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       4: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       3: cmd/fs-v1-multipart.go:321:cmd.(*FSObjects).PutObjectPart()
+       2: cmd/object-handlers.go:2283:cmd.objectAPIHandlers.PutObjectPartHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObjectPart(bucket=test, object=2019/03/15/13/59/test.zip)
+Time: 20:11:01 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EC405F10E0C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       4: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       3: cmd/fs-v1-multipart.go:321:cmd.(*FSObjects).PutObjectPart()
+       2: cmd/object-handlers.go:2283:cmd.objectAPIHandlers.PutObjectPartHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObjectPart(bucket=test, object=2017/11/27/07/36/加解密工具crypto.zip)
+Time: 20:11:09 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EC5F9533EF3
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       4: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       3: cmd/fs-v1-multipart.go:321:cmd.(*FSObjects).PutObjectPart()
+       2: cmd/object-handlers.go:2283:cmd.objectAPIHandlers.PutObjectPartHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObjectPart(bucket=test, object=2016/05/03/12/17/FangSong.ttf)
+Time: 20:11:13 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EC6D1AA4377
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       4: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       3: cmd/fs-v1-multipart.go:321:cmd.(*FSObjects).PutObjectPart()
+       2: cmd/object-handlers.go:2283:cmd.objectAPIHandlers.PutObjectPartHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=f6ff3637-6dff-41a0-8f6c-0b0d86ea25f9/wagon-http-3.2.0-shaded.jar)
+Time: 20:11:34 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552ECBCD23AB1B
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=a70c1d0c-1506-4702-8104-4201551274b6/wagon-http-3.2.0-shaded.jar)
+Time: 20:11:38 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552ECCABBC84F6
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=f1b70af9-0116-4cdf-8aa3-569d7e8fa4aa/wagon-http-3.2.0-shaded.jar)
+Time: 20:11:43 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552ECDE7A2E317
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=eacd5eaf-9375-4aba-ba6c-01952bc4fce9/wagon-http-3.2.0-shaded.jar)
+Time: 20:12:55 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EDE89045950
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=ed6e5aa4-2108-48d2-804c-ad532e276761/wagon-http-3.2.0-shaded.jar)
+Time: 20:13:00 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552EDFB5A4E772
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=b77a973b-f683-4818-b24a-84abf89723b4/wagon-http-3.2.0-shaded.jar)
+Time: 20:25:47 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F925FC8EF2C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=5c4e8f01-19eb-4aec-8b22-620481850c94/wagon-http-3.2.0-shaded.jar)
+Time: 20:25:53 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F93D97E85F9
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=dd961dc0-dbad-4d4a-91b3-3b40098c70f2/wagon-http-3.2.0-shaded.jar)
+Time: 20:25:58 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F94DFFB332C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=b21d4036-f91a-4cbd-bd67-844fa493e91b/wagon-http-3.2.0-shaded.jar)
+Time: 20:26:03 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F962153745B
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=ace4e81c-dac3-45fb-90e0-d93a88835cc3/wagon-http-3.2.0-shaded.jar)
+Time: 20:26:08 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F974F4E194A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=e0b11792-1a4e-4427-95fd-84e0ec4b8b3c/wagon-http-3.2.0-shaded.jar)
+Time: 20:26:20 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F9A075899BD
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=a39fbfc0-7524-4689-a9d9-833c3f2a9dd7/wagon-http-3.2.0-shaded.jar)
+Time: 20:26:35 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552F9D8E114B0E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=7fc65be9-8dd5-487c-a68a-a5ab731cabf9/wagon-http-3.2.0-shaded.jar)
+Time: 20:27:13 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FA66C988387
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=12cd7bc1-d21e-487e-ba59-3facf5e8491d/wagon-http-3.2.0-shaded.jar)
+Time: 20:27:18 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FA776453C4A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=c99c91c4-fe33-481b-b985-caa36c6b851a/wagon-http-3.2.0-shaded.jar)
+Time: 20:28:03 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FB1F9BB1E30
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=55380b0d-a875-4ac0-b297-c5706d9bafa8/wagon-http-3.2.0-shaded.jar)
+Time: 20:28:07 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FB2ED5FD4F6
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=dec20f2a-c1e0-4237-ad35-a88c9ed28b1d/wagon-http-3.2.0-shaded.jar)
+Time: 20:28:43 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FBB68F53DD7
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/08/17/08/18/seguihis.ttf)
+Time: 20:29:07 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FC0FF434F17
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2020/03/16/06/40/ArteryBaseSQLWizard_manual.pdf)
+Time: 20:30:39 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FD65F8A2A4E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/04/17/16/09/arial.ttf)
+Time: 20:30:49 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FD8C191E595
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/03/06/12/38/unpack200.exe)
+Time: 20:31:01 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FDB6D9EEBEA
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/06/11/11/27/sunw_java_plugin.mo)
+Time: 20:31:20 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FDFEB347282
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018/06: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2018/06/11/11/27/sunw_java_plugin.mo)
+Time: 20:31:20 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FDFEB347282
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2018/06: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: SYSTEM()
+Time: 20:31:48 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: Storage reached its minimum free disk threshold.
+       2: cmd/fs-v1.go:296:cmd.(*FSObjects).CrawlAndGetDataUsage()
+       1: cmd/data-crawler.go:87:cmd.runDataCrawler()
+
+API: SYSTEM()
+Time: 20:31:48 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+Error: Storage reached its minimum free disk threshold.
+       1: cmd/data-usage.go:59:cmd.storeDataUsageInBackend()
+
+API: PutObject(bucket=test, object=2016/06/20/15/55/javaws.1)
+Time: 20:32:09 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FEB392DA489
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016/06/20: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/06/20/15/55/javaws.1)
+Time: 20:32:09 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FEB392DA489
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016/06/20: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/07/03/20/20/ebrima.ttf)
+Time: 20:32:29 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF008CEAB63
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016/07: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2016/07/03/20/20/ebrima.ttf)
+Time: 20:32:29 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF008CEAB63
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2016/07: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/02/20/01/44/BELL.TTF)
+Time: 20:32:36 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF1A94BA045
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017/02: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2017/02/20/01/44/BELL.TTF)
+Time: 20:32:36 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF1A94BA045
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2017/02: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/08/24/15/60/LucidaSansRegular.ttf)
+Time: 20:32:41 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF2C3F66826
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2019/08: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=2019/08/24/15/60/LucidaSansRegular.ttf)
+Time: 20:32:41 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16552FF2C3F66826
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/2019/08: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=161dcb1e-01e7-4d2e-bbf2-ae4a8883fea5/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:10 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553007823957CF
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/161dcb1e-01e7-4d2e-bbf2-ae4a8883fea5: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=161dcb1e-01e7-4d2e-bbf2-ae4a8883fea5/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:10 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553007823957CF
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/161dcb1e-01e7-4d2e-bbf2-ae4a8883fea5: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=8b0a3bb4-3c05-4a1c-8c45-72e0afa94b2f/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:13 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553008352CBA4A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/8b0a3bb4-3c05-4a1c-8c45-72e0afa94b2f: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=8b0a3bb4-3c05-4a1c-8c45-72e0afa94b2f/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:13 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553008352CBA4A
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/8b0a3bb4-3c05-4a1c-8c45-72e0afa94b2f: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=e0b15ba1-6628-44fa-8eb8-a8da68e0b068/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655300AEF68944B
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/e0b15ba1-6628-44fa-8eb8-a8da68e0b068: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=e0b15ba1-6628-44fa-8eb8-a8da68e0b068/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655300AEF68944B
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/e0b15ba1-6628-44fa-8eb8-a8da68e0b068: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=cc1a3a72-b948-4db9-a267-6e85d5d4bd42/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:30 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655300C2D7AE36C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/cc1a3a72-b948-4db9-a267-6e85d5d4bd42: no space left on device
+       4: cmd/fs-v1.go:1175:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=cc1a3a72-b948-4db9-a267-6e85d5d4bd42/wagon-http-3.2.0-shaded.jar)
+Time: 20:34:30 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655300C2D7AE36C
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/.minio.sys/buckets/test/cc1a3a72-b948-4db9-a267-6e85d5d4bd42: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=6f85fba0-a632-40a3-a4ce-60b451334775/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:32 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302888E53949
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/6f85fba0-a632-40a3-a4ce-60b451334775: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=6f85fba0-a632-40a3-a4ce-60b451334775/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:32 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302888E53949
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/6f85fba0-a632-40a3-a4ce-60b451334775: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=16657931-7c12-40b5-8071-fabf8cb3212d/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:40 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302A48640368
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/16657931-7c12-40b5-8071-fabf8cb3212d: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=16657931-7c12-40b5-8071-fabf8cb3212d/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:40 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302A48640368
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/16657931-7c12-40b5-8071-fabf8cb3212d: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=60c1547c-d93a-49c9-88b1-4cab3992b855/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:44 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302B445BE72E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/60c1547c-d93a-49c9-88b1-4cab3992b855: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=60c1547c-d93a-49c9-88b1-4cab3992b855/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:44 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302B445BE72E
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/60c1547c-d93a-49c9-88b1-4cab3992b855: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=945a08df-1122-4465-97ed-b175785ddbd3/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:52 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302D49507346
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/945a08df-1122-4465-97ed-b175785ddbd3: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=945a08df-1122-4465-97ed-b175785ddbd3/wagon-http-3.2.0-shaded.jar)
+Time: 20:36:52 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 1655302D49507346
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/945a08df-1122-4465-97ed-b175785ddbd3: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=af3b1fbc-65b8-46db-8712-ca734b12416a/wagon-http-3.2.0-shaded.jar)
+Time: 20:37:19 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 165530337EECD7F5
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/af3b1fbc-65b8-46db-8712-ca734b12416a: no space left on device
+       5: cmd/fs-v1-helpers.go:400:cmd.fsRenameFile()
+       4: cmd/fs-v1.go:1223:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=af3b1fbc-65b8-46db-8712-ca734b12416a/wagon-http-3.2.0-shaded.jar)
+Time: 20:37:19 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 165530337EECD7F5
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: mkdir /home/minio_data_test/test/af3b1fbc-65b8-46db-8712-ca734b12416a: no space left on device
+       4: cmd/api-errors.go:1961:cmd.toAPIErrorCode()
+       3: cmd/api-errors.go:1986:cmd.toAPIError()
+       2: cmd/object-handlers.go:1558:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=69a33cc5-e5fe-4347-89a3-56f78a53d312/wagon-http-3.2.0-shaded.jar)
+Time: 20:37:25 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553034C21B9524
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=0b658b1c-ca0d-4a84-9e6e-3f47b83a4ddc/wagon-http-3.2.0-shaded.jar)
+Time: 20:37:33 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553036AC5C6D42
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
+
+API: PutObject(bucket=test, object=72a759e8-be31-4ddd-8f42-7991aa68e7d6/wagon-http-3.2.0-shaded.jar)
+Time: 20:37:37 CST 12/29/2020
+DeploymentID: 5162a7d5-be84-4577-bc46-a857ea83c02d
+RequestID: 16553037AC3B99D1
+RemoteHost: 172.25.8.152
+Host: 172.25.17.61:9010
+UserAgent: MinIO (Mac OS X; x86_64) minio-java/8.0.3
+Error: disk path full
+       5: cmd/fs-v1-helpers.go:316:cmd.fsCreateFile()
+       4: cmd/fs-v1.go:1202:cmd.(*FSObjects).putObject()
+       3: cmd/fs-v1.go:1116:cmd.(*FSObjects).PutObject()
+       2: cmd/object-handlers.go:1556:cmd.objectAPIHandlers.PutObjectHandler()
+       1: net/http/server.go:2041:http.HandlerFunc.ServeHTTP()
