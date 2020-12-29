@@ -1,0 +1,5 @@
+minio:
+  endpoint: http://172.25.17.61:9010/
+  accessKey: minio
+  secretKey: tusc@6789#JKL
+  targetBucket: test
